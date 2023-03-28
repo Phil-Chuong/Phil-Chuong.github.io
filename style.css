@@ -1,0 +1,148 @@
+h1 {
+    background-image: linear-gradient(to right, gray, gray, white);
+    height: 75px;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20px;
+    border: 1px solid black;
+    color: blue;
+
+}
+
+h2 {
+    color: blue;
+}
+
+
+
+nav {
+    background-image: linear-gradient(to right, gray, gray, white);
+
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+nav li {
+    float: left;
+    font-size: 20px;
+    
+}
+
+nav li a {
+    display: block;
+    padding: 30px;
+    background-color: gray;
+    text-decoration: none;
+    
+}
+
+#color-container {
+    background-color: gray;
+    display: flex;
+    overflow: scroll;
+    width: auto;
+    margin: 20px;
+}
+.flex-box {
+    display: inline-flex;
+}
+
+.box-1 {
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 30px;
+}
+.box-2 {
+    background-color: antiquewhite;
+    margin: 20px;
+    padding: 30px;
+}
+.box-3 {
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 30px;
+}
+.box-4 {
+    background-color: bisque;
+    margin: 20px;
+    padding: 30px;
+}
+.box-5 {
+    background-color: beige;
+    margin: 20px;
+    padding: 30px;
+}
+.box-6 {
+    background-color: cyan;
+    margin: 20px;
+    padding: 30px;
+}
+.box-7 {
+    background-color: darkkhaki;
+    margin: 20px;
+    padding: 30px;
+}
+.box-8 {
+    background-color: lavender;
+    margin: 20px;
+    padding: 30px;
+}
+
+.font {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px 30px;
+}
+
+th {
+    font-size: 25px;
+    font-weight: bold;
+    color: cyan;
+}
+
+.alkatra {
+    font-size: 30px;
+    font-family: 'Alkatra', cursive;
+}
+
+.delicious-handrawn {
+    font-size: 30px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.playfair-display {
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+.oswald {
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.gruppo {
+    font-size: 30px;
+    font-family: 'Gruppo', cursive;
+}
+
+.bebas-neue {
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+#button {
+    margin: 20px;
+    font-size: 30px;
+}
+
+#icon {
+    margin: 20px;
+    font-size: 30px;
+}
